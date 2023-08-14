@@ -1,0 +1,142 @@
+/* @media screen and (max-width:576px) {
+           
+} */
+.head {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    margin-top: 30px;
+    list-style: none;
+
+}
+li a{
+     text-decoration: none;
+     color: #665f5f;
+}
+li a:hover{
+    color: #fc4727;
+}
+.h1 {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+h2{
+    margin-left: 10px;
+}
+.logo {
+    width: 30px;
+    height: 35px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+.head-home {
+    margin-left: 300px;
+    margin-top: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.head-about-us {
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.head-features{
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.head-how-it-works{
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.head-button {
+    margin-left: 350px;
+    cursor: pointer;
+    
+}
+.button-style{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: white; 
+} 
+.p {
+    font-family: Arial, Helvetica, sans-serif;
+      font-size: 50px;
+      border: 1px none;
+      width: 800px;
+      margin-left: 90px;
+      margin-top: 80px;
+  }
+  .p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px none;
+    width: 370px;
+    margin-left: 90px;
+    font-weight: 100;
+    color: #665f5f;
+    border-left: 1px solid #665f5f;
+    padding-left: 20px;
+}
+.btn1 {
+    background-color: #ff5202;
+    border: none;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-left: 90px;
+    color: white;
+    font-size: 14px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.btn2 {
+    cursor: pointer;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-color: white;
+    border: 1px solid black;
+    margin-left: 15px;
+}
+.main-orange-arrow {
+    margin-top: 70px;
+    position: absolute;
+    margin-left: -90px;
+}
+.main-men-image {
+    margin-top: 98px;
+    margin-left: -290px;
+    position: absolute;
+    height: 340px;
+}
+
+.main-orange-backround {
+    margin-top: 100px;
+    height: 340px;
+}
+
+.outline {
+    position: absolute;
+    margin-top: 87px;
+    margin-left: -345px;
+    width: 350px;
+}
+.main-curve-arrow {
+    position: absolute;
+    margin-left: -700px;
+    margin-top: 350px;
+}
+
+.main-green-arrow {
+    position: absolute;
+    margin-left: -300px;
+    margin-top: 500px;
+}
+.main-content{display: flex;}
